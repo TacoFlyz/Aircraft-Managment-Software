@@ -16,6 +16,59 @@ Updates coming soon
 
 Start of updates:
 
+March 22, 2022 at 5:50:17
+The timeline after putting in all the factors for this to be aircraft ready, the new timelien has been changed to 5 years. 
+Depends on the rate of development the max timeline estimated is 10 years, but chances are it will be less then that. We are not sure.
+Development with android studio has not started just yet.
+Android studio development should start soon. After we finish developing the app there is more.
+We will need to make a system to connect the application to the actual aircraft which will require a long process.
+We will need to find someone to let us use an aircraft for software research purposes.
+The software will be open source and there will be a testing program in place.
+For now we will work on the app itself and more updates are coming soon.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+March 22, 2022 at 5:46:08 EST
+We have changed the software to an andriod app and the timeline has been extended to 2 years.
+We will be using Android studio to create this app and in the next few weeks we will be putting progress reports on the updates page.
+The final code will be avalible on GitHub after we handle the testing of the code on real aircraft as we will need to install andriod onto the aircraft.
+With this the timeline will be around 2 years but longer because of actually making it ready for aircraft. We will also need to make a new hardware controlling
+system.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 March 22, 2022 at 5:29:45 PM EST
 Project started and went live.
 Development has not started and will start by the end of the week
